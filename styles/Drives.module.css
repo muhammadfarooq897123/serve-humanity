@@ -1,0 +1,47 @@
+
+.driveParent{
+    text-align: center;
+    margin-top: 2%;
+}
+.mobile_driveParent{
+    text-align: center;
+    margin-top: 5%;
+}
+.driveParent h1{
+    color: #003366;
+    font-size: 47px;
+    font-family: sans-serif;
+}
+.mobile_driveParent h1{
+    color: #003366;
+    font-size: 47px;
+    font-family: sans-serif;
+}
+.drives{
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.drive{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    color: #003366;
+    box-shadow: orangered 0px 3px 8px;
+}
+.mobile_drive{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    color: #003366;
+    box-shadow: orangered 0px 3px 8px;
+}

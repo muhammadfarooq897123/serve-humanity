@@ -1,0 +1,109 @@
+.mainDiv{
+    text-align: center;
+}
+.mainDiv img{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.container {
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+width: 90%;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .title {
+    color: #003366;
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  
+  .mission {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .sectionTitle {
+    color: #003366;
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  .founder {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .teamCard, .projectCard {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  .volunteerLink {
+    color: #003366;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .volunteerLink:hover {
+    background-color: #003366;
+    color: white;
+  }
+  
+  .documents {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    margin-top: 15px;
+  }
+  
+  .documents ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .documents li {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  /* Fixed Donation Section */
+  .donation {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 51, 102, 0.9);
+    color: white;
+    padding: 15px;
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.2);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .donation p {
+    margin: 5px 0;
+    line-height: 1.7rem;
+  }
+  
+  .donation strong {
+    color: #ffcc00;
+  }
+  

@@ -1,0 +1,85 @@
+.headerParent{
+    width: 100%;
+    height: 80vh;
+}
+
+.headerContents{
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.7), rgba(245, 245, 220, 0.7)), url(../public/images/headerbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.mobile_headerContents{
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.7), rgba(245, 245, 220, 0.7)), url(../public/images/headerbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.mobile_headerContents h1{
+    color: #003366;
+    font-size: 43px;
+    font-family: sans-serif;
+   text-align: center;
+}
+.mobile_headerContents h3{
+    color: #003366;
+    text-align: center;
+    padding-top: 1%;
+    line-height: 2.2rem;
+    font-family: sans-serif;
+}
+.headerContents h1{
+    color: #003366;
+    font-size: 50px;
+    font-family: sans-serif;
+   text-align: center;
+   }
+.headerContents h3{
+ color: #003366;
+ text-align: center;
+ padding-top: 1%;
+ line-height: 2.2rem;
+ font-family: sans-serif;
+
+}
+.statsButton{
+    background-color: orangered;
+    border: 1px solid orangered;
+    padding: 10px 30px 10px 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 2%;
+    cursor: pointer;
+    color: white;
+}
+.statsButton:hover{
+    background-color: orange;
+    border: 1px solid orange;
+}
+.donationButton{
+    background-color: orangered;
+    border: 1px solid orangered;
+    padding: 10px 30px 10px 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 2%;
+    cursor: pointer;
+    color: white;
+}
+.donationButton:hover{
+    background-color: orange;
+    border: 1px solid orange;
+}

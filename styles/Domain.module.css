@@ -1,0 +1,51 @@
+
+.domainParent{
+    text-align: center;
+}
+
+.mobile_domainParent{
+    text-align: center;
+}
+
+.domainParent h1{
+    color: #003366;
+    font-size: 47px;
+    font-family: sans-serif;
+}
+.mobile_domainParent h1{
+    color: #003366;
+    font-size: 47px;
+    font-family: sans-serif;
+}
+
+.domains{
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.domain{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    color: #003366;
+    border: 1px solid orangered;
+}
+.mobile_domain{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    width: 90%;
+    text-align: center;
+    color: #003366;
+    border: 1px solid orangered;
+}
+.domain img{
+    height: 240px;
+}

@@ -1,0 +1,37 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: sans-serif;
+    gap: 20px;
+    text-align: center;
+   align-items: center;
+}
+
+.project{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    font-family: sans-serif;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.project h1{
+    color: #003366;
+    font-family: sans-serif;
+}
+
+.project img{
+    width: 80%;
+    height: 500px;
+}
+.project p{
+    line-height: 1.8rem;
+    font-size: 16px;
+}
+
+.project strong{
+    color: #003366;
+}
