@@ -13,15 +13,15 @@ export default function CurrentCases() {
 
       {
 
-         "title": "Fee case",
-         "description": "A student of UET Taxila is suffering from financial crisis and unable to pay his semester fee.Kindly donate for educational Cause",
-         "AmountRequired": "30k",
-         "AmountCollected": "6k",
-         "Deadline": "20 feb",
-         "Account1": "03196092861   (Abdul Rehman ) jazzcash",
-         "Account2": "03006844332 (Muhammad Junaid Rashid) Easypaisa",
+        "title": "Medical case",
+         "description": "A patient from Lahore is suffering from stage 4 Cancer and is in a critical condition. Unfortunately, they are unable to bear the expensive treatment costs. Please donate generously to support this noble cause. ",
+         "AmountRequired": "50k",
+         "AmountCollected": "",
+         "Deadline": "30 March",
+         "Account1": "03196092861 (Abdul Rehman) Jazzcash Account",
+         "Account2": "03006844332 (Muhammad Junaid Rashid) Easypaisa Account",
          "Account3": "00300110953386 (Abdul Rehman)  Meezan Bank Account",
-          "contact": "+923049790694"
+         "contact": "03089431073 (Anas Naveed President)"
       },
       {
 
