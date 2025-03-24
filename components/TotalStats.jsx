@@ -10,7 +10,7 @@ export default function TotalStats() {
                })
     const stats = {
         OverallAmountCollected: "2,508,807 rupees",
-        TotalCasesSolved: "101 And Medical Camp",
+        TotalCasesSolved: "101 And 1 Medical Camp",
         AreasCovered: "Health, Education, General Needs, Student Fees",
         CurrentlyPending: "1",
         CurrentlyRunning: "2",
