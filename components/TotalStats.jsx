@@ -9,11 +9,11 @@ export default function TotalStats() {
                    setIsMobile(window.innerWidth <= 650)
                })
     const stats = {
-        OverallAmountCollected: "2,508,807 rupees",
-        TotalCasesSolved: "101 And 1 Medical Camp",
+        OverallAmountCollected: "2,639,907 rupees",
+        TotalCasesSolved: "108",
         AreasCovered: "Health, Education, General Needs, Student Fees",
-        CurrentlyPending: "1",
-        CurrentlyRunning: "2",
+        CurrentlyPending: "4",
+        CurrentlyRunning: "1",
         NoteForViewers: "Nan",
     };
 
