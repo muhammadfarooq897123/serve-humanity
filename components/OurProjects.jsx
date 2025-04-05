@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from '../styles/Projects.module.css';
 import mc_pic from '../public/images/mc.jpg';
+import Ration_Drive from '../public/images/Ramzan_Ration.jpeg';
 
 export default function OurProjects() {
 
