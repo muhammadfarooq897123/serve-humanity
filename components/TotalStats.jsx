@@ -14,7 +14,7 @@ export default function TotalStats() {
         AreasCovered: "Health, Education, General Needs, Student Fees",
         CurrentlyPending: "4",
         CurrentlyRunning: "1",
-        NoteForViewers: "Nan",
+        NoteForViewers: "Donate Now For Better Tommorow! ",
     };
 
     return (
