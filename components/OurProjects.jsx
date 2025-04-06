@@ -30,7 +30,7 @@ export default function OurProjects() {
            return  <div className = {styles.project}>
                 <h1>{project.Title}</h1>
                 <strong>{project.StartDate} to {project.EndDate}</strong>
-                <img src={project.image.src} alt="No associated image" />
+                <img src={project.image.src} alt="No associated image" className="w-full h-auto rounded-md" />
                 <p dangerouslySetInnerHTML={{ __html: project.Description }} />
                 
             </div>
