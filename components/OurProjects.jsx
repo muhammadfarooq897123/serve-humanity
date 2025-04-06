@@ -8,7 +8,7 @@ export default function OurProjects() {
     const projects = [
         {
             'Title':'Medical Camp',
-            'Description': 'Serve Humanity and Kare-e-Kamal Taxila Chapter successfully organized a free medical camp, providing vital healthcare services to over 250 patients in need. Our team of dedicated medical professionals conducted thorough check-ups, diagnosed ailments, and dispensed essential medications to those seeking care. This initiative embodies our commitment to serving humanity and promoting health and wellness in our community.',
+            'Description': 'Serve Humanity and Kare-e-Kamal Taxila Chapter successfully organized a free medical camp, providing vital healthcare services to over 250 patients in need. Our team of dedicated medical professionals conducted thorough check-ups, diagnosed ailments, and dispensed essential medications to those seeking care. This initiative embodies our commitment to serving humanity and promoting health and wellness in our community. <a href="https://drive.google.com/file/d/1lusn2hwPJ0h1hVn_6ibxBdQtI1MzZ7R5/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><br>Click to Watch!!! </a>',
             'StartDate':'16-02-2025 (11:00 am)',
             'EndDate':'16-02-2025 (4:00 pm)',
             'image': mc_pic
