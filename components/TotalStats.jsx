@@ -27,7 +27,7 @@ export default function TotalStats() {
             <table className= {styles.stats_table} >
                 <thead>
                     <tr>
-                        <th>Stat</th>
+                        <th>Stats</th>
                         <th>Value</th>
                     </tr>
                 </thead>
