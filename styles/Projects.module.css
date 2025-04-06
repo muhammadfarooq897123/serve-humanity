@@ -23,10 +23,11 @@
     font-family: sans-serif;
 }
 
-.project img{
-    width: 80%;
-    height: 700px;
-}
+.project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* optional for rounded corners */
+  }
 .project p{
     line-height: 1.8rem;
     font-size: 16px;
