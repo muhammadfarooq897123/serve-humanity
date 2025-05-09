@@ -27,7 +27,7 @@ export default function AboutUs() {
                             those members who performed very well. <br /> <br />
                            
                             Its Founder is Engr M. Nayab Ali 19 MED UET Taxila and Co-Founder is Engr M. Basit
-                            Iqbal 19 MED UET Taxila. And current President is Anas Naveed from 21 MED UET Taxila.
+                            Iqbal 19 MED UET Taxila. And current President is Muhammad Junaid Rashid from 22 MED UET Taxila.
                         </p>
                     </div>
                 </div>
