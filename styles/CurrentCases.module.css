@@ -120,13 +120,16 @@
 .collected {
     color: green;
     font-size: 18px;
+    font-family: sans-serif;
  }
 
  .required{
     color: orange;
     font-size: 18px;
+    font-family: sans-serif;
  }
  .deadline{
     color: red;
     font-size: 18px;
+    font-family: sans-serif; 
  }
