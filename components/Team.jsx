@@ -2,7 +2,7 @@ import React from 'react'
 import style from '../styles/Teams.module.css'
 import nayab from '../public/images/nayab.png'
 import taha from '../public/images/taha.jpg'
-import junaid from '../public/images/junaid.jpeg'
+import junaid from '../public/images/Junaid.jpeg'
 import basit from '../public/images/basit.jpg'
 import { useState, useEffect } from 'react'
 
