@@ -16,7 +16,7 @@ export default function ContactUs() {
             alert('Please fill in both fields before launching WhatsApp.');
             return;
         }
-        const phoneNumber = '923089431073';
+        const phoneNumber = '923097852424';
         const text = `Hello, my name is ${encodeURIComponent(name)}. ${encodeURIComponent(message)}`;
         const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${text}`;
         window.open(whatsappUrl, '_blank'); // Opens WhatsApp in a new tab
