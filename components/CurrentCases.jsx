@@ -27,7 +27,7 @@ export default function CurrentCases() {
 
         "title": "Support Serve Humanity's Palestine Relief Drive",
          "description": "Support Serve Humanity's Palestine Relief Drive and help bring hope to those in need. Your donation can make a difference in the lives of Palestinians affected by crisis. Donate now and join us in serving humanity.",
-         "AmountRequired": "Donate as much as you can*Deadline:* We will transfer your amount at the end of every month",
+         "AmountRequired": "Donate as much as you can. We will transfer your amount at the end of every month",
          "AmountCollected": "",
          "Deadline": "May 2025",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
