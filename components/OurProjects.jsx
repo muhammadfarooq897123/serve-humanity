@@ -23,7 +23,7 @@ export default function OurProjects() {
       },
       {
           'Title':'Palestine Drive',
-          'Description': 'At Serve Humanity, we're committed to supporting those in need around the world. Our Palestine Donation Drive has been instrumental in raising vital funds for Palestinian families affected by crisis. To date, we've successfully raised significant amounts, including a notable milestone of PKR 100,000, among other generous contributions from our donors. Through your support, we've been able to make a tangible difference in the lives of those who need it most. We're grateful for the trust and kindness of our donors, and we look forward to continuing our mission to serve humanity',
+          'Description': 'At Serve Humanity, we are committed to supporting those in need around the world. Our Palestine Donation Drive has been instrumental in raising vital funds for Palestinian families affected by crisis. To date, we have successfully raised significant amounts, including a notable milestone of PKR 100,000, among other generous contributions from our donors. Through your support, we have been able to make a tangible difference in the lives of those who need it most. We are grateful for the trust and kindness of our donors, and we look forward to continuing our mission to serve humanity',
           'StartDate':'01-04-2025',
           'EndDate':'Transfer amount at end of every month',
           'image': Palestine
