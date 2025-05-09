@@ -117,13 +117,16 @@
     font-family: sans-serif;
     cursor: pointer;
 }
- .collected {
+.collected {
     color: green;
+    font-size: 16px;
  }
 
  .required{
     color: orange;
+    font-size: 16px;
  }
  .deadline{
     color: red;
+    font-size: 16px;
  }
