@@ -35,7 +35,7 @@ export default function Team() {
         },
         {
             'Name': 'Mr. Junaid Rashid',
-            'Desig.': 'President serve humanity',
+            'Desig.': 'President Serve Humanity',
             'Contact': '+923097852424',
             'image': junaid
 
