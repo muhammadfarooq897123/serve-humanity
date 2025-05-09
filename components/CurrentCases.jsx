@@ -19,7 +19,7 @@ export default function CurrentCases() {
          "AmountCollected": "0",
          "Deadline": "20 May",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
-         "Account2": "03006844332 (Muhammad Junaid Rashid) Easypaisa Account",
+         "Account2": "03430868800 (M Nayab Ali) JazzCash",
          "contact": "03097852424 (M. Junaid Rashid  President)"
       },
       {
