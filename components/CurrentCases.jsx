@@ -55,8 +55,7 @@ export default function CurrentCases() {
                      <p className = {style.collected}>Amount Collected: {ccase.AmountCollected}</p>
                      <p className = {style.deadline}>Deadline: {ccase.Deadline}</p>
                      <p>Account 1: {ccase.Account1}</p>
-                     <p>Account 2: {ccase.Account2}</p>
-                     <p>Account 3: {ccase.Account3}</p> <br />
+                     <p>Account 2: {ccase.Account2}</p> <br />
                      <button onClick={()=>{
                          getDocuments(ccase.title, ccase.contact);
                      }}>Ask for documents</button>
