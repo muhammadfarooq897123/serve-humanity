@@ -58,8 +58,8 @@ export default function Team() {
              return <div className = {style.member}>
                 <img src={member.image.src} alt="" />
                 <h2>{member.Name}</h2>
-                <h6>{member['Desig.']}</h6>
-                <button onClick={()=>handleLaunchWhatsApp(member.Contact)}>Contact me</button>
+                <h6 style="font-size: 18px;">{member['Desig.']}</h6>
+               <button onClick={()=>handleLaunchWhatsApp(member.Contact)}>Contact me</button>
              </div>
             })}
          </div>
