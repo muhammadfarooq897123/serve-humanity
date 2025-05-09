@@ -16,7 +16,7 @@ export default function CurrentCases() {
         "title": "Medical case",
          "description": "A woman in Bhakkar is struggling with gynecological issues but is unable to afford the expensive treatment. ",
          "AmountRequired": "30k",
-         "AmountCollected": "0",
+         "AmountCollected": "8k",
          "Deadline": "20 May",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
          "Account2": "03430868800 (M Nayab Ali) JazzCash",
