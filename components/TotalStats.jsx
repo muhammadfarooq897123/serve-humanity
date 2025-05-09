@@ -9,10 +9,10 @@ export default function TotalStats() {
                    setIsMobile(window.innerWidth <= 650)
                })
     const stats = {
-        OverallAmountCollected: "2,639,907 rupees",
-        TotalCasesSolved: "108",
+        OverallAmountCollected: "2,976,807 rupees",
+        TotalCasesSolved: "113",
         AreasCovered: "Health, Education, General Needs, Student Fees",
-        CurrentlyPending: "4",
+        CurrentlyPending: "3",
         CurrentlyRunning: "1",
         NoteForViewers: "Donate Now For Better Tomorrow! ",
     };
