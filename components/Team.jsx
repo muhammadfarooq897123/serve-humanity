@@ -2,7 +2,7 @@ import React from 'react'
 import style from '../styles/Teams.module.css'
 import nayab from '../public/images/nayab.png'
 import taha from '../public/images/taha.jpg'
-import anas from '../public/images/anas.png'
+import junaid from '../public/images/junaid.jpeg'
 import basit from '../public/images/basit.jpg'
 import { useState, useEffect } from 'react'
 
@@ -28,16 +28,16 @@ export default function Team() {
         },
         {
             'Name': 'Mr. Taha Yasin',
-            'Desig.': 'Co-founder Serve Humanity ',
+            'Desig.': 'Advisor Serve Humanity ',
             'Contact': '+923108323340',
             'image': taha
 
         },
         {
-            'Name': 'Mr. Anas Naveed',
+            'Name': 'Mr. Junaid Rashid',
             'Desig.': 'President serve humanity',
-            'Contact': '+923089431073',
-            'image': anas
+            'Contact': '+923097852424',
+            'image': junaid
 
         },
     ]
