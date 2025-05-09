@@ -38,8 +38,9 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .member img{
-    width: 300px;
-    height: 300px;
+    max-width: 75%;
+    height: auto;
+    border-radius: 8px;
 }
 .member button{
     background-color: orangered;
