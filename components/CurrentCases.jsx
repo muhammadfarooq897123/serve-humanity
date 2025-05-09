@@ -14,16 +14,31 @@ export default function CurrentCases() {
       {
 
         "title": "Medical case",
-         "description": "A patient from Lahore is suffering from stage 4 Cancer and is in a critical condition. Unfortunately, they are unable to bear the expensive treatment costs. Please donate generously to support this noble cause. ",
-         "AmountRequired": "50k",
-         "AmountCollected": "50k",
-         "Deadline": "30 March",
-         "Account1": "03196092861 (Abdul Rehman) Jazzcash Account",
+         "description": "A woman in Bhakkar is struggling with gynecological issues but is unable to afford the expensive treatment. ",
+         "AmountRequired": "30k",
+         "AmountCollected": "0",
+         "Deadline": "20 May",
+         "Account1": "0282268153946 (M.Nayab Ali) UBL",
          "Account2": "03006844332 (Muhammad Junaid Rashid) Easypaisa Account",
          "Account3": "00300110953386 (Abdul Rehman)  Meezan Bank Account",
-         "contact": "03089431073 (Anas Naveed President)"
+         "contact": "03097852424 (M. Junaid Rashid  President)"
       },
-      
+      {
+
+        "title": "Support Serve Humanity's Palestine Relief Drive",
+         "description": "Support Serve Humanity's Palestine Relief Drive and help bring hope to those in need. Your donation can make a difference in the lives of Palestinians affected by crisis. Donate now and join us in serving humanity."
+
+"Amount Required: Donate as much as you can*Deadline:* We will transfer your amount at the end of every month"
+
+"Donate generously and help us make a difference! ",
+         "AmountRequired": "30k",
+         "AmountCollected": "0",
+         "Deadline": "20 May",
+         "Account1": "0282268153946 (M.Nayab Ali) UBL",
+         "Account2": "03430868800 (M Nayab Ali) Nayapay",
+         "Account3": "00300110953386 (Abdul Rehman)  Meezan Bank Account",
+         "contact": "03097852424 (M. Junaid Rashid  President)"
+      },
    ]
 
    const getDocuments = (case_val, case_contact)=>{
