@@ -2,6 +2,7 @@ import React from 'react'
 import styles from '../styles/Projects.module.css';
 import mc_pic from '../public/images/mc.jpg';
 import Ration_Drive from '../public/images/Ramzan_Ration.jpeg';
+import Palestine from '../public/images/Palestine.jpeg';
 
 export default function OurProjects() {
 
@@ -19,8 +20,14 @@ export default function OurProjects() {
           'StartDate':'02-03-2025',
           'EndDate':'15-03-2025',
           'image': Ration_Drive
+      },
+      {
+          'Title':'Palestine Drive',
+          'Description': 'At Serve Humanity, we're committed to supporting those in need around the world. Our Palestine Donation Drive has been instrumental in raising vital funds for Palestinian families affected by crisis. To date, we've successfully raised significant amounts, including a notable milestone of PKR 100,000, among other generous contributions from our donors. Through your support, we've been able to make a tangible difference in the lives of those who need it most. We're grateful for the trust and kindness of our donors, and we look forward to continuing our mission to serve humanity',
+          'StartDate':'01-04-2025',
+          'EndDate':'Transfer amount at end of every month',
+          'image': Palestine
       }
-        
     ]
   return (
     <div className = {styles.projects}>
