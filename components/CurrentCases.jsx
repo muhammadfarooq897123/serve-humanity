@@ -20,19 +20,17 @@ export default function CurrentCases() {
          "Deadline": "20 May",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
          "Account2": "03006844332 (Muhammad Junaid Rashid) Easypaisa Account",
-         "Account3": "00300110953386 (Abdul Rehman)  Meezan Bank Account",
          "contact": "03097852424 (M. Junaid Rashid  President)"
       },
       {
 
         "title": "Support Serve Humanity's Palestine Relief Drive",
          "description": "Support Serve Humanity's Palestine Relief Drive and help bring hope to those in need. Your donation can make a difference in the lives of Palestinians affected by crisis. Donate now and join us in serving humanity.",
-         "AmountRequired": "Donate as much as you can. We will transfer your amount at the end of every month",
+         "AmountRequired": "Donate as much as you can. ",
          "AmountCollected": "",
-         "Deadline": "May 2025",
+         "Deadline": "We will transfer your amount at the end of every month",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
          "Account2": "03430868800 (M Nayab Ali) Nayapay",
-         "Account3": "00300110953386 (Abdul Rehman)  Meezan Bank Account",
          "contact": "03097852424 (M. Junaid Rashid  President)"
       },
    ]
