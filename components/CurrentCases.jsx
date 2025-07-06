@@ -13,11 +13,11 @@ export default function CurrentCases() {
 
       {
 
-        "title": "Medical case",
-         "description": "A woman in Bhakkar is struggling with gynecological issues but is unable to afford the expensive treatment. ",
-         "AmountRequired": "30k",
-         "AmountCollected": "8k",
-         "Deadline": "20 May",
+         "title": "Medical case",
+         "description": "A woman 32 years old has 2 children, resident of chichawatni,Is suffering from breast cancer and needs an urgent surgery, her family is unable to bear her surgery expenses.it's a humble request to donate some amount so she can survive, and grow up her little children."
+         "AmountRequired": "40k",
+         "AmountCollected": "",
+         "Deadline": "10 July",
          "Account1": "0282268153946 (M.Nayab Ali) UBL",
          "Account2": "03430868800 (M Nayab Ali) JazzCash",
          "contact": "03097852424 (M. Junaid Rashid  President)"
