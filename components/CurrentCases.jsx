@@ -14,7 +14,7 @@ export default function CurrentCases() {
       {
 
          "title": "Medical case",
-         "description": "A woman 32 years old has 2 children, resident of chichawatni,Is suffering from breast cancer and needs an urgent surgery, her family is unable to bear her surgery expenses.it's a humble request to donate some amount so she can survive, and grow up her little children."
+         "description": "A woman 32 years old has 2 children, resident of chichawatni,Is suffering from breast cancer and needs an urgent surgery, her family is unable to bear her surgery expenses.it's a humble request to donate some amount so she can survive, and grow up her little children.",
          "AmountRequired": "40k",
          "AmountCollected": "",
          "Deadline": "10 July",
